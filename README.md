@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @netnativeninja
+- 👀 I’m interested in building `Cloud Native` `Distributed Applications` using `.NET`
+- 🌱 I’m currently learning `Aspire` and `DAPR`
+- 📫 How to reach me @netnativeninja
